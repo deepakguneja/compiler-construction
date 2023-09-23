@@ -1,0 +1,31 @@
+_main[    ]
+	$ % ^
+	=/;
+	_sadASDdsf!
+	asdfghjklzxcvbnmasdghjk
+	43.r
+	34.3t
+	"sadf  3#   "
+	#sakbdkjhkshfkhadsfhkhds
+	
+	"hdsgfgdsgfjhdshgfjhdsgfhsdghfsjdgj"
+	"dsfds 34 sdf"
+	.fsad.e.r.ag .ot .noe.
+	string str1, str2;
+	matrix m1;
+	
+	#heldslhfhdsfhk
+	
+	#dsnfnsd #dsknf
+	
+	str1 = "eradicateabhtyfp ";
+	blankSTR = "  ";
+	str2 = "plagiarism";
+	function [string s]= _concatenate[string a, string a2]
+		str1 = a + a2;
+	end;
+	string ccSubmission;
+	ccSubmission = _concatenate(str1, blankSTR);
+	ccSubmission = _concatenate(ccSubmission, str2);
+	#dskfjhsd
+end

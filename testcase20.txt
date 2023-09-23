@@ -1,0 +1,4 @@
+_main[]
+	int a,b,c,d,e,f,g,h;
+	a = b + c/d*f+g/h*c;
+end

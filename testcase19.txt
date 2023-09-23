@@ -1,0 +1,6 @@
+_main[]
+	int a,b,c,d,e,f;
+	b = 3;
+	read(a);
+	print(b);
+end

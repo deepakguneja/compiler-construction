@@ -1,0 +1,13 @@
+12
+end,END
+int,INT
+real,REAL
+string,STRING
+matrix,MATRIX
+_main,MAIN
+if,IF
+else,ELSE
+endif,ENDIF
+read,READ
+print,PRINT
+function,FUNCTION
